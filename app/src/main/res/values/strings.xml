@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleService</string>
+    <array name="trackNames">
+        <item>Al-Fil_105</item>
+        <item>Quraish_106</item>
+        <item>Al-Maun_107</item>
+        <item>Al-Kauther_108</item>
+        <item>Al-Kafiroon_109</item>
+        <item>An-Nasr_110</item>
+        <item>Al-Masadd_111</item>
+        <item>Al-Ikhlas_112</item>
+        <item>Al-Falaq_113</item>
+        <item>An-Nas_114</item>
+    </array>
+    <string name="trackExecutor">Mishary Rashid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
